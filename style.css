@@ -1,0 +1,45 @@
+body {
+    font-size: 15pt;
+    margin: 4px;
+    padding: 10px;
+}
+h5{
+  display: flex;
+  background-color: hite;
+  font-size: 17pt;
+  justify-content: center;
+  padding:10px;
+}
+.note{
+  background-color: yellow;
+  border: inset 15px gray;
+  padding:10px;
+}
+table{
+  font-size: 15px;
+}
+div{
+  box-sizing: border-box;
+  border: inset 15px grey;
+  margin-bottom: 10pt;
+  padding: 10px;
+}
+h4{
+  display: flex;
+  background-color: black;
+  color: white;
+  font-size: 17pt;
+  justify-content: center;
+  padding:10px;
+  border: inset 15px grey;
+  text-align: center;
+}
+img{
+  width: 50%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+}
+li{
+  margin: 15px;
+}
